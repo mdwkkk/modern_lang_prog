@@ -1,3 +1,9 @@
+# Maven build output in any practice folder
+**/target/
+
+# IDE settings
+**/.idea/
+
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
